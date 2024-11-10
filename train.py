@@ -16,7 +16,7 @@ plt.rcParams['font.sans-serif'] = ['SimHei']
 plt.rcParams['axes.unicode_minus'] = False
 
 BOOT_TRAIN = r'E:\Coding\GitHub\AlexNet\data\train'
-BOOT_VAL = r'E:\Coding\GitHub\AlexNet\data\val'
+BOOT_VAL = r'E:\Coding\GitHub\AlexNet\data\test'
 
 # 1、定义一个数据预处理的转换
 # 特征缩放：使用归一化进行特征缩放，将图像的像素值归一化到[-1, 1]之间
